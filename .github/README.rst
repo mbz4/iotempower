@@ -31,7 +31,7 @@ IoTempower
 
 
 .. figure:: /doc/images/system-architecture.png
-   :width: 50%
+   :width: 100%
    :figwidth: 100%
    :align: center
    :alt: IoTempower System Architecture
