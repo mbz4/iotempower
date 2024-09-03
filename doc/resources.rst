@@ -19,7 +19,7 @@ tools:
 - `The Tilde Texteditor <https://os.ghalkes.nl/tilde>`__
 
 
-As IoTempower relies heavily on MQTT, it integrates well with
+Heavy reliance on MQTT helps IoTempower integrate well with
 other community home automation software like
 `home-assistant <http://home-assistant.io>`__ and
 `openhab <https://openhab.org>`__.
